@@ -62,7 +62,8 @@ color: #11999E; }
 
 #Analy{color: #11999E;}
 
-.prob{color: #11999E;}
+.prob{color: #11999E;
+margin: auto auto auto 330px;}
 
 
 .circular{width: 20%;
@@ -77,7 +78,7 @@ text-align: left;
 
 .bottom-cloud
 {position: absolute;
- bottom:2000px;
+ bottom:2300px;
  left:250px;}
 
 .top-cloud{position: absolute;
